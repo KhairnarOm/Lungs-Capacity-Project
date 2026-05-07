@@ -196,7 +196,7 @@ This project is developed for educational and learning purposes.
 **Om Khairnar**
 
 * Data Science & Machine Learning Enthusiast
-* Final Year Project Developer
+
 
 ---
 
